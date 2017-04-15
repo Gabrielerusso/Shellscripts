@@ -55,7 +55,7 @@ while [ $flag != 0 ]
 do
 	flag=0
 	case "$answer" in
-			#Y or y or enter 
+			#Y or y or enter
 			"Y"|"y"|"")
 				#read all values
 				echo -n "Enter timeout(s=seconds,m=minutes,h=hours,d=days, ex.10m): "
@@ -130,6 +130,5 @@ if [ $flag == 1 ]; then
 	echo "sys monitor will be closed in 10s"
 	#wait 10s
 	sleep 10
+	sudo killall gnome-system-monitor
 fi
-
-

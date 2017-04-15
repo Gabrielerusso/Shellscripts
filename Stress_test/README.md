@@ -2,16 +2,16 @@
 Breve script automatizzato per lanciare uno stress test su varie componenti hardware.
 
 ***
-[Requisiti](#requisiti)
-
-[Istruzioni](#istruzioni)
-
-[Precauzioni](#precauzioni)
-
-[Consigli](#consigli)
-
-[Scarico responsabilità](#scarico-responsabilita)
+### **Menu**
++ [Requisiti](#requisiti)
++ [Istruzioni](#istruzioni)
++ [Precauzioni](#precauzioni)
++ [Consigli](#consigli)
++ [Scarico responsabilità](#scarico-responsabilita)
++ [About](#About)
 ***
+
+
 ## Requisiti
   1. Calcolatore con ubuntu, debian o derivati;
   2. Connessione internet (solo per l'installazione dei tool richiesti);
@@ -40,6 +40,6 @@ Consiglio di monitorare le temperature della macchina (se possibile), e, control
 **Non mi assumo alcuna responsabilità su eventuali danni arrecati a cose o persone, causati dall'utilizzo di questo script.**
 *Per altre informazioni è possibile leggere la licenza con cui viene rilasciato questo software.*
 
-
-
-***© Gabriele Russo 2017***
+## About
+  Questo script è stato realizzato per il [*Supporto IT*](http://linux.studenti.polito.it/wp) del [*Politecnico di Torino*](http://www.polito.it). Nasce con lo scopo di guidare, e quindi facilitare,  uno stress test delle componenti hw di un calcolatore.
+  ***© Gabriele Russo 2017***
