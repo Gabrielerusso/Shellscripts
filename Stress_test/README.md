@@ -2,11 +2,15 @@
 Breve script automatizzato per lanciare uno stress test su varie componenti hardware.
 
 ***
-**[Requisiti](#Requisiti)
-[Istruzioni](#Istruzioni)
-[Precauzioni](#Precauzioni)
-[Consigli](#Consigli)
-[Scarico responsabilità](#Scarico-responsabilità)**
+[Requisiti](#requisiti)
+
+[Istruzioni](#istruzioni)
+
+[Precauzioni](#precauzioni)
+
+[Consigli](#consigli)
+
+[Scarico responsabilità](#scarico-responsabilita)
 ***
 ## Requisiti
   1. Calcolatore con ubuntu, debian o derivati;
@@ -32,7 +36,7 @@ Breve script automatizzato per lanciare uno stress test su varie componenti hard
 ## Consigli
 Consiglio di monitorare le temperature della macchina (se possibile), e, controllare manualmente che non ci siano rumori strani, scintillii o fumo.
 
-## Scarico responsabilità
+## Scarico responsabilita
 **Non mi assumo alcuna responsabilità su eventuali danni arrecati a cose o persone, causati dall'utilizzo di questo script.**
 *Per altre informazioni è possibile leggere la licenza con cui viene rilasciato questo software.*
 
