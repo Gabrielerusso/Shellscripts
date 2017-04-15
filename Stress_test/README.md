@@ -8,7 +8,7 @@ Breve script automatizzato per lanciare uno stress test su varie componenti hard
 + [Precauzioni](#precauzioni)
 + [Consigli](#consigli)
 + [Scarico responsabilità](#scarico-responsabilita)
-+ [About](#About)
++ [About](#about)
 ***
 
 
