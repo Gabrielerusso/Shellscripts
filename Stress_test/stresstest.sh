@@ -78,6 +78,7 @@ do
 			#everything else
 			*)
 				echo -n "Please, enter 'y' or 'n'"
+				read answer
 				flag=1
 			;;
 	esac
@@ -113,6 +114,7 @@ do
 			#everything else
 			*)
 				echo -n "Please, enter 'y' or 'n'"
+				read answer
 				flag=5
 			;;
 	esac
